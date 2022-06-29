@@ -1,0 +1,23 @@
+{
+  "name": "product-listing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@shopify/polaris": "^9.19.0",
+    "next": "^12.1.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sass": "^1.53.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.39",
+    "eslint": "8.18.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
